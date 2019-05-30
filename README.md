@@ -6,9 +6,9 @@ Third workshop in a series of four workshops
 * **Hands-on**
   * Using Data Analysis Packages
     * Pandas
-    * Numpy<br><br>
+    * Numpy<br>
 
-* **Future Topics**<br><br>
+* **Future Topics**<br>
 
 * **Helpful hints & resources**
 
