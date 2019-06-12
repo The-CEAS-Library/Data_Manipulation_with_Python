@@ -5,10 +5,14 @@ Building on topics of the "Introduction to Python" and "Intermediate Python" wor
 
 ### Data Analysis with Python
 
-* **Hands-on**
-  * Using Data Analysis Packages
-    * Pandas
-    * Numpy<br>
+* **Hands-on working on a data file with Pandas and Numpy**
+  * Creating a Dataframe object
+  * Exploring a Dataframe (columns, datatypes, shape etc)
+  * Dataframe and Series slicing and indexing
+  * Querying Dataframes
+  * Running statistics on Dataframes
+  * Grouping and aggregating Dataframes
+  * Quick & Easy Plots with Pandas<br>
 
 * **Future Topics**<br>
 
