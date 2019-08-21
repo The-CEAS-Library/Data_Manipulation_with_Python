@@ -1,5 +1,5 @@
 # Data_Analysis_with_Python
-Third workshop in a series of four workshops.
+Fourth workshop in a series of five Python workshops.
 
 Building on topics of the "Introduction to Python" and "Intermediate Python" workshop. Basic knowledge of Python or attendance these workshops is strongly recommended.
 
