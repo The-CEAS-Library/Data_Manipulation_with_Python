@@ -19,4 +19,4 @@ Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediat
 * **Helpful hints & resources**
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Data_Analysis_with_Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Data_Analysis_with_Python.git/master)
