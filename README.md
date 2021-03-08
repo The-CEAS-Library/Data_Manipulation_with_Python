@@ -1,7 +1,7 @@
 # Data_Analysis_with_Python
 Fourth workshop in a series of five Python workshops.
 
-Note: Please click **'launch binder'**, present at the bottom of the page, to launch the Binder.
+Note: Please click **'launch binder'** button, present at the bottom of the page, to launch the Binder.
 
 Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediate Python" workshops. Basic knowledge of Python or attendance these workshops is strongly recommended.
 
