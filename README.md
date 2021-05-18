@@ -12,8 +12,7 @@ Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediat
   * Querying Dataframes
   * Running statistics on Dataframes
   * Grouping and aggregating Dataframes
-  * Quick & Easy Plots with Pandas<br>
-
+  
 * **Future Topics**<br>
 
 * **Helpful hints & resources**
