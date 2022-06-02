@@ -22,5 +22,4 @@ Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediat
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Data_Analysis_with_Python.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/CEASLIBRARY/
-Data_Analysis_with_Python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/CEASLIBRARY/Data_Analysis_with_Python)
