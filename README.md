@@ -1,9 +1,9 @@
-# Data_Analysis_with_Python
+# Data_Manipulation_with_Python
 Fourth workshop in a series of five Python workshops.
 
 Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediate Python" workshops. Basic knowledge of Python or attendance these workshops is strongly recommended.
 
-### Data Analysis with Python
+### Data Manipulation with Python
 
 * **Hands-on working on a data file with Pandas and Numpy**
   * Creating a Dataframe object
@@ -21,6 +21,6 @@ Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediat
 Please click **'Open in Colab'** button below to launch the notebook in Google Colab for an interactive environment in the web browser.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Data_Analysis_with_Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Data_Manipulation_with_Python.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Data_Analysis_with_Python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Data_Manipulation_with_Python)
