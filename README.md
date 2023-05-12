@@ -1,7 +1,6 @@
 # Data_Manipulation_with_Python
-Fourth workshop in a series of five Python workshops.
 
-Building on topics of the "Introduction to Python Part 1 and 2" and "Intermediate Python" workshops. Basic knowledge of Python or attendance these workshops is strongly recommended.
+Building on topics of the "Foundations of Python" workshop series. Basic knowledge of Python or attendance these workshops is strongly recommended.
 
 ### Data Manipulation with Python
 
