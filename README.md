@@ -18,4 +18,4 @@ Please click **'Open in Colab'** button below to launch the notebook in Google C
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Data_Manipulation_with_Python.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-CEAS-Library/Foundations-of-Python-2/blob/med_focus/Data_Manipulation_with_Python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-CEAS-Library/Data_Manipulation_with_Python/blob/med_focus/Data_Manipulation_with_Python.ipynb)
